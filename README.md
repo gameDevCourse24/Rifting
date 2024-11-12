@@ -10,7 +10,7 @@
 
 * המשחק מיועד למחשב רגיל (PC) עם אפשרות להרחיב לפלטפורמות נוספות בעתיד.
 
-![riftingPic](riftingPic.png)
+![riftingPic](rifttingPic.jpg)
 
 ---
 
